@@ -9,3 +9,4 @@ Collection of R scripts for analysis of single-cell RNASeq data.
 5. Trajectory Analysis using [Slingshot](https://www.bioconductor.org/packages/release/bioc/vignettes/slingshot/inst/doc/vignette.html)
 6. Trajectory based differential expression using [tradeSeq](https://github.com/statOmics/tradeSeq)
 7. Batch Effect correction using [Cardec](https://www.biorxiv.org/content/10.1101/2020.09.23.310003v1)
+8. Ligand Receptor interaction using [CellphoneDB](https://github.com/Teichlab/cellphonedb)
